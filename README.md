@@ -16,4 +16,6 @@ docker exec -i -t b6415206b534 /bin/bash
 
 cat /var/jenkins_home/secrets/initialAdminPassword 
 f87c863f34a14cd5a6589514412981ff
+
+/var/jenkins_home/war/WEB-INF/jenkins-cli.jar
 ```
